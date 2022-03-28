@@ -1,1 +1,2 @@
 # Java-Arrays-Challenge
+Write a program that uses the String declared below to achieve the following: Convert the string into a multi-dimensional array of numbers whereby you will use the , as the number delimiter and \n as an array delimiter. Iterate through the array and sort it in ascending order. Print the sorted contents of the array. Iterate through the array and sort it in descending order. Print the sorted contents of the array.
